@@ -4,4 +4,4 @@ This is a Dashboard I have made to look at some Bitcoin mining data at a glance,
 
 To run this dashboard locally, clone this repository to your machine, add your API key on line 16 of app.py, and run. Locally you should be able to see the ERCOT hub and load zone pricing data.
 
-The deployment on Heroku can be found at https://xbtjames.heroku.com
+The deployment on Heroku can be found at https://xbtjames.herokuapp.com/
