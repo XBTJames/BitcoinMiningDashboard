@@ -65,7 +65,7 @@ app.layout = html.Div([
         html.Div([
             dcc.Graph(id='ASICinSats'),
             ], style = {'width':'48%','float':'right','display':'inline-block'},),
-       html.H2('ASIC Historical Profitability'),
+       html.H2('ASIC Historical Profitability - Select your Machine and Power Cost'),
         html.Div([
            dcc.Dropdown(
                list_of_machines,
